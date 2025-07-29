@@ -58,7 +58,7 @@ project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/agentic-ai-chatbots.git
+git clone [https://github.com/yourusername/agentic-ai-chatbots.git](https://github.com/atishay2411/Agentic-AI-Chatbot)
 cd agentic-ai-chatbots
 ```
 
@@ -105,4 +105,4 @@ streamlit run app.py
 
 ## License
 
-This project is released under the MIT License.
+MIT License.
